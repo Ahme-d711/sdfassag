@@ -36,10 +36,7 @@ const Header = () => {
           <Fade direction="down" triggerOnce>
             <a href="#" className="flex items-center gap-2">
               <span className="text-2xl font-serif font-bold text-gold-gradient">
-                LUXE
-              </span>
-              <span className="text-2xl font-serif font-light text-foreground">
-                ESTATES
+                PLACEHOLDER
               </span>
             </a>
           </Fade>
